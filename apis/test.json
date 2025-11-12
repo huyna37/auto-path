@@ -1,0 +1,7 @@
+{
+  "path": "/test",
+  "method": "GET",
+  "response": {
+    "message": "ok"
+  }
+}
